@@ -1,6 +1,26 @@
-Anotações:
-Link para Download do Guit: https://git-scm.com/downloads
-Comandos do Git primordiais:
-ls - O comando do Bash ls é usado para listar o conteúdo do diretório de trabalho atual.  O ls é equivalente ao DIR em terminais de host do console do Window
-git clone - Comando para clonar repositórios do GitHub para o local.
-git status - Comando realizado para verificar o status do local para verificar se há ou não conteúdos para serem lançados para o commit
+# Anotações:
+#### Comandos :
+
+- ls - O comando do Bash ls é usado para listar o conteúdo do diretório de trabalho atual.  O ls é equivalente ao DIR em terminais de host do console do Windows;
+
+- git clone - Comando para clonar repositórios do GitHub para o local;
+
+- git status - Comando realizado para verificar o status do local para verificar se há ou não conteúdos para serem lançados para o commit;
+
+- git add - Adicionar arquivo para  controle de versão;
+
+- cd - Comando utilizado para navegar entre as pastas do computador ex: cd workspace/ (entrando na pasta workspace);
+
+- mkdir - Comando utilizado para criação de repositórios dentro do Bash (mesma situação que criar uma pasta normalmente );
+
+- sha1 - criptografia utilizada pelo GIT contendo 40 carácteres para melhor segurança do arquivo;
+
+- git init - Iniciando um novo repositório;
+
+- ls -a - Comando utilizado para visualizar arquivos ocultos;
+
+  ​	
+  
+  #### Link para Download do Git: https://git-scm.com/downloads
+  
+  
